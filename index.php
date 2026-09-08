@@ -71,54 +71,6 @@ $faqs = [
     <meta name="twitter:image" content="images/og.png">
 
     <link rel="stylesheet" href="styles.css">
-    <style>
-        :root {
-            --ink: #173b66;
-            --ink-deep: #0b2340;
-            --sage: #dce8f4;
-            --muted: #5b6f82;
-            --line: rgba(23, 59, 102, 0.14);
-        }
-
-        .brand-mark {
-            font-size: 11px;
-            letter-spacing: 0;
-        }
-
-        .nav { color: #435c73; }
-
-        .hero-art {
-            background: url('images/hero-home.webp') center / cover no-repeat, #1d4f7e;
-        }
-
-        .hero-shade {
-            background: linear-gradient(
-                90deg,
-                rgba(6, 24, 47, 0.98) 0%,
-                rgba(8, 34, 63, 0.91) 42%,
-                rgba(11, 40, 72, 0.30) 72%,
-                rgba(8, 31, 58, 0.40) 100%
-            );
-        }
-
-        .offer-card input,
-        .final-form input,
-        .final-form select,
-        .final-form textarea {
-            border-color: rgba(23, 59, 102, 0.18);
-        }
-
-        .comparison-row strong { background: #f0f5fa; }
-
-        .about-visual {
-            background: linear-gradient(150deg, #285d8a, var(--ink-deep));
-        }
-
-        .form-status {
-            background: #e7f0f8;
-            color: #173b66;
-        }
-    </style>
 </head>
 <body>
 <main>
