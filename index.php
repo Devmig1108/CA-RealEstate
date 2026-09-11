@@ -152,7 +152,7 @@ $schema = [
     </section>
 
     <footer>
-        <div class="shell footer-top"><a class="brand footer-brand" href="#top" aria-label="C&amp;A Investments home"><span class="brand-mark" aria-hidden="true">C&amp;A</span><span class="brand-copy"><strong>C&amp;A Investments</strong><small>El Paso home buyers</small></span></a><p>A local, straightforward way to explore selling your El Paso house as-is.</p><div class="footer-contact"><a href="tel:+19153635711">(915) 363-5711</a><span>hello@cainvestments.com</span></div></div>
+        <div class="shell footer-top"><a class="brand footer-brand" href="#top" aria-label="C&amp;A Investments home"><span class="brand-mark" aria-hidden="true">C&amp;A</span><span class="brand-copy"><strong>C&amp;A Investments</strong><small>El Paso home buyers</small></span></a><p>A local, straightforward way to explore selling your El Paso house as-is.</p><div class="footer-contact"><a href="tel:+19153635711">(915) 363-5711</a><span>cainvestments915@gmail.com</span></div></div>
         <div class="shell footer-bottom"><span>© 2026 C&amp;A Investments. Demo concept.</span><div><a href="#how-it-works">How it works</a><a href="#el-paso">Our area</a><a href="#offer">Get an offer</a></div></div>
     </footer>
 </main>
