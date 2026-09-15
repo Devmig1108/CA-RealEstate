@@ -47,7 +47,7 @@ $schema = [
     <meta name="description"
         content="Sell your El Paso house as-is with C&amp;A Investments. Explore a simple, no-obligation cash offer without repairs, showings, or agent commissions.">
     <link rel="canonical" href="https://lone-star-home-offers-demo.ervotech-ep.chatgpt.site/">
-    <link rel="icon" href="images/favicon.svg" type="image/svg+xml">
+    <link rel="icon" href="images/favicon.png" type="image/png">
     <meta property="og:type" content="website">
     <meta property="og:title" content="Sell Your El Paso House Without the Hassle">
     <meta property="og:description" content="A simple, local cash-offer experience for El Paso homeowners.">
